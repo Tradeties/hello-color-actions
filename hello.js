@@ -5,3 +5,6 @@ console.log("Hello World from Tradeties");
 // Triggering redeploy
 // Another test deploy trigger
 // Trying deploy again
+// Final deploy trigger — fixed all secrets
+// Attempt deploy again after verifying secrets
+
