@@ -4,3 +4,4 @@ exports.hello = hello;
 console.log("Hello World from Tradeties");
 // Triggering redeploy
 // Another test deploy trigger
+// Trying deploy again
