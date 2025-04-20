@@ -9,4 +9,5 @@ console.log("Hello World from Tradeties");
 // Attempt deploy again after verifying secrets
 // Final fix — secrets double-checked
 // Confirmed secrets not blank — final deployment
+// Deploy attempt after re-creating access keys
 
