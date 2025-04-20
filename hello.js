@@ -8,4 +8,5 @@ console.log("Hello World from Tradeties");
 // Final deploy trigger — fixed all secrets
 // Attempt deploy again after verifying secrets
 // Final fix — secrets double-checked
+// Confirmed secrets not blank — final deployment
 
